@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ApplicationLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DomainLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ApplicationLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApplicationLayer.dll": {}
+        }
+      },
+      "DomainLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DomainLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApplicationLayer/1.0.0": {
+      "type": "project",
+      "path": "../ApplicationLayer/ApplicationLayer.csproj",
+      "msbuildProject": "../ApplicationLayer/ApplicationLayer.csproj"
+    },
+    "DomainLayer/1.0.0": {
+      "type": "project",
+      "path": "../DomainLayer/DomainLayer.csproj",
+      "msbuildProject": "../DomainLayer/DomainLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ApplicationLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ahmed Ramzy\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Education\\RouteASP Tasks\\G-Net-40-LINQ02\\PresentationLayer\\PresentationLayer.csproj",
+      "projectName": "PresentationLayer",
+      "projectPath": "D:\\Education\\RouteASP Tasks\\G-Net-40-LINQ02\\PresentationLayer\\PresentationLayer.csproj",
+      "packagesPath": "C:\\Users\\Ahmed Ramzy\\.nuget\\packages\\",
+      "outputPath": "D:\\Education\\RouteASP Tasks\\G-Net-40-LINQ02\\PresentationLayer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ahmed Ramzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Education\\RouteASP Tasks\\G-Net-40-LINQ02\\ApplicationLayer\\ApplicationLayer.csproj": {
+              "projectPath": "D:\\Education\\RouteASP Tasks\\G-Net-40-LINQ02\\ApplicationLayer\\ApplicationLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.106/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
