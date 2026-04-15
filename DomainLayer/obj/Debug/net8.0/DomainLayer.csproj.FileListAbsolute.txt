@@ -1,0 +1,12 @@
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\Education\RouteASP Tasks\G-Net-40-LINQ02\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
